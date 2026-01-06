@@ -21,4 +21,3 @@ The project includes:
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Structure
